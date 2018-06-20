@@ -1,0 +1,30 @@
+a{
+background:rgb;
+} 
+b{
+font-size:50;
+background:black;
+}
+h1{
+font-size:45;
+font-weight:bold;
+}
+nav ul,li.pink a { list-style-type:square;
+            display:inline-block;
+	          text-align:left;
+         }
+h3{
+font-size:35;
+font-weight:bold;
+}
+p{
+font-weight:bold;
+}
+      
+      body {
+        padding-top: 50px;
+      }
+       
+        body {
+          padding-top: 50px;
+        }
